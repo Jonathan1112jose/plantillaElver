@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PROTECCION DE ANIMALES</title>
+	<link rel="stylesheet" type="text/css" href="tools/css/style.css">
+</head>
+<body class="fondo">
+	<div>
+	<header class="nav">
+		<nav>
+			<h2><i>PROTECCION DE ANIMALES S.A</i></h2>
+			<a href="about.html">ABOUT</a>
+			<a href="animals.html">ANIMALS</a>
+			<a href="contac.html">CONTACT</a>
+		</nav>
+		<img class="icono" src="tools/img/logo pagina.png" alt="logo page">
+
+		<h1>SALVANDO LA VIDA MARINA</h1><br>
+		<h4>LA VIDA EN EL OCEANO NO NOS LASTIMA PORQUE LASTIMARLA NOSOTROS?</h4>
+	</header>
+	<main>
+		<h3>EXTINCION EN EL MAR</h3><br>
+		<p>Los seres humanos estamos recogiendo lo que nuestros ancestros han sembrado en cuanto al cuidado de nuestro planeta tierra se refiere. Estamos recogiendo lluvias extremas, días calurosos y secos, y sobre todo la desaparición de miles de especies de animales y plantas. <br><img src="tools/img/imagen7.jpg" alt="tortuga marina"><br>Con situaciones como la caza indiscriminada de animales, la quema y la tala de bosques enteros, muchos son los animales que no podrán tener hogar y sobre todo, no podrán multiplicarse. Así es ahora el panorama que nuestro planeta puede mostrarnos.</p><br>
+		<h2>CUANDO SE CONCIDERA UNA ESPECIEN EN PELIGRO DE EXINCION?</h2>
+		<br>
+		<p>Se considera en peligro de extinción a una especie animal cualquiera, cuando su existencia y reproducción no se puede desarrollar en ninguna parte del mundo. Es decir que ya nunca se podrá volver a ver.</p>
+		<br><img src="tools/img/imagen6.jpg"><br>
+		<p>Esto es debido generalmente a la terminación de un recurso del cual dependen todas y cada una de las especies, ya sea por acción del hombre, como la caza ilegal o la tala de indiscriminada de árboles, o simplemente por cambios en el ecosistema de la especie que son fruto de hechos fortuitos, como lo es el cambio climático.</p>
+	</main>
+	<br>
+	<footer><i>No contamines el hambiente, estas lastimando nuestro mundo, y el de los animales, nuestro planeta tierra necesita tu ayuda, apoyanos y ayuda a salvar mas habitat para los animales.</i></footer><br>
+	<address>Pagina hecha por PROTECCION DE ANIMALES S.A 2021 julio © PAS.A®</address>
+	</div>
+</body>
+</html>

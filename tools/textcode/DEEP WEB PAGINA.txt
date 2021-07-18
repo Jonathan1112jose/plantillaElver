@@ -1,0 +1,55 @@
+Internet profunda1​ (del inglés, deep web), internet invisible2​ o internet oculta3​ es el contenido de internet que no está indexado por los motores de búsqueda convencionales, debido a diversos factores.4​ El término se atribuye al informático Mike Bergman.
+
+La principal causa de la existencia de la internet profunda es la imposibilidad de los motores de búsqueda (ejemplo: Google, Yahoo y Bing, y otros) de encontrar o indexar gran parte de la información existente en Internet. Si los buscadores tuvieran la capacidad para acceder a toda la información entonces la magnitud de la «internet profunda» se reduciría casi en su totalidad. No obstante, aunque los motores de búsqueda pudieran indexar la información de la internet profunda esto no significaría que esta dejara de existir, ya que siempre existirán las páginas privadas. Los motores de búsqueda no pueden acceder a la información de estas páginas y solo determinados usuarios, aquellos con contraseñas o códigos especiales, pueden hacerlo.
+
+En la Deep Web pueden establecerse contactos que no son monitoreados, nadie está allí observando. Además las transferencias tanto de mercancía como de pagos son prácticamente imposibles de rastrear. La web está dividida en dos partes, la web superficial y la web profunda. Esta última es la que se conoce como Deep Web, donde se ubica todo contenido que no es indexable por los buscadores, o al que los usuarios no pueden acceder mediante un buscador web como DuckDuckGo, Startpage, Yandex, Ecosia, Yahoo!, Google o Bing.
+
+La internet profunda no es una región prohibida o mística de internet ni la tecnología relacionada con ella es necesariamente conspirativa, peligrosa o ilegal. En ella se alberga todo tipo de recursos a los que es difícil de acceder mediante métodos comunes como los motores de búsqueda populares.
+
+Una parte de la "internet profunda" consiste en redes internas de instituciones científicas y académicas que forman la denominada Academic Invisible Web: («Internet académica invisible»), la cual se refiere a las bases de datos que contienen avances tecnológicos, publicaciones científicas y material académico en general a los cuales no se pueden acceder fácilmente.6​ 
+
+Motivos por los que los motores de búsqueda no pueden indexar algunas páginas:
+
+    Documentos o información oculta: Archivos pdf que no se encuentran en las páginas indexadas, listas de datos no públicas (sobre todo los ciber-criminales).
+    Web contextual: páginas cuyo contenido varía dependiendo del contexto (por ejemplo, la dirección IP del cliente, de las visitas anteriores, etc).
+    Contenido dinámico: páginas dinámicas obtenidas como respuesta a parámetros, por ejemplo, datos enviados a través de un formulario.
+    Contenido de acceso restringido: páginas protegidas con contraseña, contenido protegido por un Captcha, etc.
+    Contenido no HTML: contenido textual en archivos multimedia, otras extensiones como exe, rar, zip, etc.
+    Software: Contenido oculto intencionadamente, que requiere un programa o protocolo específico para poder acceder (ejemplos: Tor, I2P, Freenet)
+    Páginas no enlazadas: páginas de cuya existencia no tienen referencia los buscadores; por ejemplo, páginas que no tienen enlaces desde otras páginas.
+
+La Web profunda se refiere a la colección de sitios o bases de datos que un buscador común, como Google o Bing no pueden o no quieren indexar. Es un lugar específico del internet que se distingue por el anonimato. Nada que se haga en esta zona puede ser asociado con la identidad de uno, a menos que uno lo desee.12​
+
+Bergman, en un artículo semanal sobre la Web profunda publicado en el Journal of Electronic Publishing, mencionó que Jill Ellsworth utilizó el término «Web invisible» en 1994 para referirse a los sitios web que no están registrados por ningún motor de búsqueda.13​
+
+En su artículo, Bergman citó la entrevista que Frank García hizo a Ellsworth en 1996:14​
+
+    Sería un sitio que, posiblemente, esté diseñado razonablemente, pero no se molestaron en registrarlo en alguno de los motores de búsqueda. ¡Por lo tanto, nadie puede encontrarlos! Estás oculto. Yo llamo a esto la Web invisible.
+
+Otro uso temprano del término Web Invisible o web profunda fue por Bruce Monte y Mateo B. Koll de Personal Library Software, en una descripción de la herramienta @ 1 de web profunda, en un comunicado de prensa de diciembre de 1996.15​
+
+La importancia potencial de las bases de datos de búsqueda también se reflejó en el primer sitio de búsqueda dedicado a ellos, el motor AT1 que se anunció a bombo y platillo a principios de 1997. Sin embargo, PLS, propietario de AT1, fue adquirida por AOL en 1998, y poco después el servicio AT1 fue abandonado.13​
+
+El primer uso del término específico de web profunda, ahora generalmente aceptada, ocurrió en el estudio de Bergman de 2001 mencionado anteriormente.
+
+Por otra parte, el término web invisible se dice que es inexacto porque:
+
+    Muchos usuarios asumen que la única forma de acceder a la web es consultando un buscador.
+    Alguna información puede ser encontrada más fácilmente que otra, pero esto no quiere decir que esté invisible.
+    La web contiene información de diversos tipos que es almacenada y recuperada en diferentes formas.
+    El contenido indexado por los buscadores de la web es almacenado también en bases de datos y disponible solamente a través de las peticiones o consultas del usuario, por tanto no es correcto decir que la información almacenada en bases de datos es invisible.
+
+
+ ~ https://elcomercio.pe/resizer/6xupOD90Ajo9p47BTxE13N_nFY0=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MSXLP7JPNZHGNLXJZ72UDJM4Y4.jpg
+
+~https://i.blogs.es/748804/iceberg-deep-web-una-semana/450_1000.jpg
+
+~ https://arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/333V6DT2IFE5HIRR4NT2PGXEUQ.png
+
+~ https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/04/hacker-hacking-code-matrix.jpeg?fit=2000%2C1390&ssl=1
+
+~ https://isciberseguridad.es/wp-content/uploads/2018/06/deep-web-1080x672.jpg
+
+~ https://cdn1-production-images-kly.akamaized.net/9Qyl5iEfO8QwIhxg2rKWhZi0Law=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1566555/original/011200400_1492141124-deepweb.jpeg
+
+~ https://tentulogo.com/wp-content/uploads/2019/03/cabecera-deep-web.jpg

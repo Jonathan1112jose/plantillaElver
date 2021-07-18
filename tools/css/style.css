@@ -1,0 +1,43 @@
+/*LETRA*/
+ body{
+	color: white;
+}
+/*FONDO DE LA PAGINA*/
+.fondo{
+	background-image: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/04/hacker-hacking-code-matrix.jpeg?fit=2000%2C1390&ssl=1);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+/*BARRA DE NAVEGACION*/
+#nav{
+	background-image: url(https://tentulogo.com/wp-content/uploads/2019/03/cabecera-deep-web.jpg);
+}
+#nav a{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin: 20px;
+	color:white;
+	text-decoration: none;
+}
+#nav a:hover{
+	color: white;
+	background-image: url(https://st.depositphotos.com/1620675/4158/i/600/depositphotos_41588897-stock-photo-abstract-orange-background.jpg); 
+}
+/*LOGO DE LA PAGINA*/
+.icono{
+	position: absolute;
+	top: 20px;
+	right: 70px;
+	width: 100px;
+	height: 100px;
+}
+/*IMAGENES*/
+.img-m{
+	width: 250px;
+	height: 250px;
+	border: 3px solid black;
+	margin: 10px;
+}
+
+
+.item1 { text-align: center;}
